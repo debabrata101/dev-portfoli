@@ -45,6 +45,19 @@ nav ul {
     height: 64px;
     border-radius: 5px;
 }
+.call{
+    
+    background-color: white;
+    color: orangered;
+    font-weight: 700;
+    font-size: 20px;
+    margin-left: 30px;
+    padding: 18px 40px;
+    height: 64px;
+    border: 2px solid orangered;
+    border-radius: 5px;
+    
+}
 
 .banner {
     display: flex;
